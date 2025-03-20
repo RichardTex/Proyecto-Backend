@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "title": "Smart Tv Qled 50''",
+        "price": 801099,
+        "description": "Smart TV RCA QL50CH100-F. Este televisor QLED de 50 pulgadas combina calidad de imagen Ultra HD 4K con un diseño moderno y funciones avanzadas. Sumergite en colores vibrantes, contrastes profundos y detalles increíbles gracias a su tecnología HDR10+ y Dolby Vision.",
+        "code": "P001",
+        "status": "available",
+        "stock": 100,
+        "category": "tv",
+        "thumbnails": [
+            "/img/632830-MLA81409765455_122024-F.webp",
+            "/img/1739130402536-882348-MLU78161249435_082024-O.webp"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Celular Samsung Galaxy A55 5g 256/ 8gb",
+        "price": 799999,
+        "description": "Celular Samsung Galaxy A55 5g 256/ 8gb Tipo de CPU Octa-Núcleo 2,75 GHz, 2 GHz 1080 x 2340 (Full HD+)",
+        "code": "P002",
+        "status": "available",
+        "stock": 50,
+        "category": "phone",
+        "thumbnails": [
+            "/img/794825-MLA80865429208_122024-O.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Heladera LG Side By Side",
+        "price": 17999999,
+        "description": "Heladera LG Side By Side French Door 708 Lts, Con tecnología inverter: Sí, 90.8 cm x 88.6 cm x 177.2 cm",
+        "code": "P003",
+        "status": "available",
+        "stock": 1,
+        "category": "refrigeracion",
+        "thumbnails": [
+            "/img/952866-MLA41478756034_042020-O.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Bafle JBL Eon 618s Subwoofer Activo 1000W",
+        "price": 3480000000,
+        "description": "El JBL EON618S es un subwoofer activo de 18 pulgadas diseñado para ofrecer un sonido potente y profundo. Con una potencia de 1000W, este subwoofer es ideal para eventos en vivo, estudios y sistemas de sonido profesional. Su diseño portátil y robusto lo hace fácil de transportar y configurar. Excelente para el hogar",
+        "code": "P005",
+        "status": "available",
+        "stock": 5,
+        "category": "audio",
+        "thumbnails": [
+            "/img/777887-MLA79687001017_102024-F.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Bafle JBL Eon 618s Subwoofer Activo 1000W",
+        "price": 3380000000,
+        "description": "El JBL EON618S es un subwoofer activo de 18 pulgadas diseñado para ofrecer un sonido potente y profundo. Con una potencia de 1000W, este subwoofer es ideal para eventos en vivo, estudios y sistemas de sonido profesional. Su diseño portátil y robusto lo hace fácil de transportar y configurar.",
+        "code": "P005",
+        "status": "available",
+        "stock": 5,
+        "category": "audio",
+        "thumbnails": [
+            "/img/777887-MLA79687001017_102024-F.webp"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Midea Unidad Enfriadora Condensación Por Aire 75TR",
+        "price": 107740383.24,
+        "description": "La unidad enfriadora Midea con condensación por aire de 75TR es ideal para grandes sistemas de climatización industrial y comercial. Su diseño eficiente y robusto permite un rendimiento óptimo con bajo consumo energético.",
+        "code": "P006",
+        "status": "available",
+        "stock": 5,
+        "category": "climatizacion",
+        "thumbnails": [
+            "/img/958953-MLA80330593545_102024-O.webp"
+        ]
+    }
+]

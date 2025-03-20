@@ -1,0 +1,28 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product List</title>
+    <link rel="stylesheet" href="/css/index.css">
+</head>
+<section class="product-list">
+    <h2>Products</h2>
+    <ul id="productList">
+        {{#each products}}
+        <li>
+            <strong>{{this.title}}</strong> - ${{this.price}} <br />
+            <p>{{this.description}}</p>
+            <p>Stock: {{this.stock}} units</p>
+            <p>Category: {{this.category}}</p>
+            <ul>
+                {{#each this.thumbnails}}
+                <li><img src="{{this}}" alt="Product image" width="100" /></li>
+                {{/each}}
+            </ul>
+        </li>
+        {{/each}}
+    </ul>
+</section>
+
+</html>
